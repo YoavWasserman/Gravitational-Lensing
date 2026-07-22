@@ -2,7 +2,7 @@
 Co-authored with Adar Sharabi.
 
 **What We did:**
--Analyzed real OGLE telescope data from gravitational microlensing events (2008-SMC-001, 2008-BLG-002, and others).
+- Analyzed real OGLE telescope data from gravitational microlensing events (2008-SMC-001, 2008-BLG-002, and others).
 - Modeled lightcurves using χ² minimization (custom-built optimization algorithm)
 - Extracted physical parameters: event duration, impact parameter, lens mass, Einstein radius
 - Validated results against OGLE published values (sub-2% accuracy) and MATLAB's built-in solver
